@@ -1,4 +1,4 @@
-# 🏡 PREDICTION OF HOME PRICES
+# 🏡 CLASSIFICATION OF SPAM MESSAGES
 
 ![preview](/assets/word_cloud_spam_messages.png)
 
